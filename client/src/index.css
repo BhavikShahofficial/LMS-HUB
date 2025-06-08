@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+:root {
+  --app-height: 100vh;
+}
+
+body {
+  height: var(--app-height);
+}
