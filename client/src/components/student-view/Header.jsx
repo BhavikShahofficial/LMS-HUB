@@ -31,7 +31,6 @@ function StudentViewCommonHeader() {
         </Link>
       </div>
 
-      {/* Desktop menu */}
       <div className="hidden md:flex items-center space-x-4">
         <Button
           variant="ghost"
